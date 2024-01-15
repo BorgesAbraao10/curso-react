@@ -1,10 +1,10 @@
 function Titulo() {
   let nome = "Abraão Borges";
   const urlImg =
-    "https://www.jsweet.org/wp-content/uploads/2016/04/react-logo.png";
+    "https://th.bing.com/th/id/OIP.p5899Oes9ZG0GWXPkJ8vOQHaHa?w=1080&h=1080&rs=1&pid=ImgDetMain";
   return (
     <div>
-      <h1> Oi, eu sou o {nome} !</h1>
+      <h1> Oi, eu sou o {nome}, estou aprendendo React!</h1>
       <img width= {100} src={urlImg} alt="" />
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit
